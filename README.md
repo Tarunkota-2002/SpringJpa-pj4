@@ -2,6 +2,7 @@
 
 
 **📌** **Overview**
+=====================
 
 This project demonstrates how to perform CRUD and custom database operations using Spring Data JPA in a layered architecture.
 
@@ -17,6 +18,7 @@ Filtering and deletion operations
 
 
 **🧩** **Tech Stack**
+=======================
 
 ☕ Java 17+
 
@@ -28,6 +30,7 @@ Filtering and deletion operations
 
 
 **🧠 Key Concepts Used**
+==========================
 
 ✔️ Spring Data JPA Method Naming Convention
 
