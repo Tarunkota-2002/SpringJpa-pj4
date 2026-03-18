@@ -1,1 +1,1 @@
-# SpringJpa-pj4
+# 🚀 Spring Data JPA Demo Project
